@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik Soni</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A passionate DevOps Engineer from India and highly dedicated to enhancing the speed and accuracy of software development and deployment procedures. My in-depth understanding of automation, containerization, and cloud computing helps me to spur innovation and produce excellent results. By staying current with the most recent DevOps technologies and processes, I continue to be committed to developing my abilities. I'm also constantly looking for new approaches to streamline workflows and enhance software delivery.</h3>
 
 <img align="right" alt="codong" width="400" src="https://gifdb.com/images/featured/hacker-lj7znezbwb0nuba4.gif">
 
